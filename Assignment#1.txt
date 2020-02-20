@@ -1,0 +1,19 @@
+[A1] Top Streaming Artists
+Learning Objectives
+Review prerequisite Java programming knowledge by putting together a small project
+Review the of the Java array type, scaling to 2D arrays
+Review of Java OOP concepts with creating classes, and instantiating them
+Create custom linked list class with appropriate members and methods
+Compare the operations for working with the array type and linked list
+Problem Description
+A record label executive received text files that contain the top streamed music artists during certain weeks. Each file represents one track by an artist. One track means one song. An artist's name might appear multiple times. The data comes from Spotify Charts.
+
+In order for their in house IT to be able to process the information, they need someone to help process it.
+
+Each text file is a comma separated value (CSV) file that has a few columns like the following table.(Detail see CSV file in the data foder). 
+
+Specifically:
+
+TODO How did you organize your files?
+TODO Who appears on the top streamed list?
+TODO Who are the music artists (in alphabetical order)?
